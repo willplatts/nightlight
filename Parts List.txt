@@ -1,0 +1,7 @@
+Item			Part No				Qty	Supplier
+------------------------------------------------------------------------
+3D printed enclosure	See nightlight.scad		1	N/A
+USB power bank		Generic				1	http://www.ebay.co.uk/itm/301815385359
+Vero board		??				1
+Red LEDs		??				4?	?
+?R Resistor		??				2?	?	
